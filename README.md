@@ -1,6 +1,6 @@
 # Startup Investment Analysis (Shark Tank India)
 
-An interactive Power BI dashboard analyzing investment trends, industry preferences, and founder success patterns from the Shark Tank India dataset.
+An interactive Power BI dashboard analyzing investment trends, industry preferences, and founder success patterns from the Shark Tank India dataset
 
 ---
 
